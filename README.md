@@ -1,1 +1,1 @@
-Projeto utilizando node.js.
+Projeto utilizando Node.js e React.
